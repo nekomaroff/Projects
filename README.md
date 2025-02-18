@@ -5,6 +5,6 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Промышленность](Industry_project) | Разработка модели машинного обучения для предсказывания температуры сплава | *pandas, numpy, seaborn, matplotlib, sklearn, phik, re* |
-| [Заказы такси](Order_taxi_projects) | Разработка модели машинного обучения для предсказывания температуры сплава | *pandas, numpy, seaborn, matplotlib, sklearn, phik, re* |
+| [Заказы такси](Order_taxi_projects) | Разработка модели машинного обучения для прогнозирования количества заказов такси | *pandas, numpy, seaborn, matplotlib, sklearn* |
 | [Промышленность](Industry_project) | Разработка модели машинного обучения для предсказывания температуры сплава | *pandas, numpy, seaborn, matplotlib, sklearn, phik, re* |
 | [Промышленность](Industry_project) | Разработка модели машинного обучения для предсказывания температуры сплава | *pandas, numpy, seaborn, matplotlib, sklearn, phik, re* |
